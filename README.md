@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas Pleno** na <a href="https://tivit.com/">Tivit</a>
+- 🎓 &nbsp; Estudando **Engenharia e software** no <a href="https://www.cruzeirodosul.edu.br/?utm_source=ads-google-search&utm_campaign=marca_graduacao_conversao_vendas_Google_keywords_search_cruzeiroDoSul_ads&utm_medium=paid-g-c&utm_content=marca_keywords&utm_term=unicsul-e&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp3t9HhUSopZtj7Ebp8SoQH3CxKiZADnDOQ9Mzo6yZnzE95AckggYA0aAioAEALw_wcB">Cruzeiro do Sul</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | Entity Framework | JavaScripit | SQL | Rest API**.
+
+- 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Gestão em Tencnologia** no <a href="https://www.uninove.br/">UniNove</a>.
+- 🎓 &nbsp; Concluido **Gestão em Tencnologia** no <a href="https://www.uninove.br/">UniNove</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor .NET** na <a href="https://www.linkedin.com/company/provertec/mycompany/">PROVER</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | Entity Framework | JavaScripit | SQL | Rest API**.
 
