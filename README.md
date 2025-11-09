@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Concluido **Gestão em Tencnologia** no <a href="https://www.uninove.br/">UniNove</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor .NET** na <a href="https://www.linkedin.com/company/provertec/mycompany/">PROVER</a>
+- 💼 &nbsp; Trabalhei como **Desenvolvedor .NET** na <a href="https://www.linkedin.com/company/provertec/mycompany/">PROVER</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | Entity Framework | JavaScripit | SQL | Rest API**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
