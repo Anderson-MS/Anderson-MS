@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas Pleno** na <a href="https://tivit.com/">Tivit</a>
-- 🎓 &nbsp; Estudando **Engenharia e software** no <a href="https://www.cruzeirodosul.edu.br/?utm_source=ads-google-search&utm_campaign=marca_graduacao_conversao_vendas_Google_keywords_search_cruzeiroDoSul_ads&utm_medium=paid-g-c&utm_content=marca_keywords&utm_term=unicsul-e&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp3t9HhUSopZtj7Ebp8SoQH3CxKiZADnDOQ9Mzo6yZnzE95AckggYA0aAioAEALw_wcB">Cruzeiro do Sul</a>.
+- 🎓 &nbsp; Concluido **Engenharia e software** no <a href="https://www.cruzeirodosul.edu.br/?utm_source=ads-google-search&utm_campaign=marca_graduacao_conversao_vendas_Google_keywords_search_cruzeiroDoSul_ads&utm_medium=paid-g-c&utm_content=marca_keywords&utm_term=unicsul-e&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp3t9HhUSopZtj7Ebp8SoQH3CxKiZADnDOQ9Mzo6yZnzE95AckggYA0aAioAEALw_wcB">Cruzeiro do Sul</a>.
 - 🌱 &nbsp; Aprendendo mais sobre ** Fundamentos de Engenharia de Software | Engenharia de Requisitos e Análise de Requisitos Funcionais e Não Funcionais | Testes de Software e Qualidade de Software | Metodologias Tradicionais e Ágeis| Gerenciamento de Projetos de Software| Projetos Ágeis com XP, TDD e práticas DevOps **.
 
 - 
